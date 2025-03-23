@@ -11,7 +11,7 @@ np_baseball=np.array(baseball)
 # Print out type of np_baseball
 print(type(np_baseball))
 
-# problem 3
+# problem 4
 
 print(np.array([True, 1, 2]) + np.array([3, 4, False]))
 # it can also be written as the followinf
